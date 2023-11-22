@@ -14,6 +14,8 @@ Diagram
 
 ![Screenshot (139)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/5f60c756-4a80-458e-9461-3c2530f8a5b8)
 
+![Screenshot (140)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/00a201c4-6a5a-4715-8e1b-b564faafdb68)
+
 
 
 
