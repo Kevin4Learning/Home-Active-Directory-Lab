@@ -1,5 +1,5 @@
 # Home-Active Directory-Lab
-1[](Screenshot(135).png
+![](Screenshot(135).png
 https://github.com/Kevin4Learning/Home-Active-Directory-Lab/blob/main/attachments/Screenshot%20(135).png
 
 This repository contains steps on how i set up a basic home lab running Active Directory.
