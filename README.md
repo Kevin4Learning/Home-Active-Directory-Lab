@@ -40,6 +40,8 @@ Configure the virtual machine by giving it two network adapters: one for connect
 
 
 # Install Server 2019 on the virtual machine and assigned IP addressing to internal network.
+![Screenshot (141)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/70d5fa03-011a-43f1-83c1-fde24c126fbb)
+
 
 
 # Assigned IP Address to Internal Adapter
