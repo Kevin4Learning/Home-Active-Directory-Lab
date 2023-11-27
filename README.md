@@ -3,13 +3,11 @@
 This repository contains steps on how i set up a basic home lab running Active Directory by Kevin Jackson
 
 # Diagram
-
 ![Screenshot (135)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/3e776ac6-b03e-4d3f-a92a-ed16512f0336)
 
 
 # Install Windows 11 Home
  https://www.microsoft.com/en-us/d/windows-11-home/dg7gmgf0krt0
-
 
 
 # Check-And-Enable Virtualization in Windows 11
@@ -40,7 +38,6 @@ Configure the virtual machine by giving it two network adapters: one for connect
 
 
 # Install Server 2019 on the virtual machine and Assigned IP addressing to internal network.
-
 ![Screenshot (141)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/70d5fa03-011a-43f1-83c1-fde24c126fbb)
 
 
@@ -51,13 +48,20 @@ Configure the virtual machine by giving it two network adapters: one for connect
 
 Configure routing so that clients on the private network can access the internet through the domain controller.
 
-# Remote Access
+# New password promt/ Log Hours/Exp-Date
 ![Screenshot (143)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/a79af54e-8ea4-46c4-b65e-322b350ca529)
+
+# Remote Access
+![Screenshot (144)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/fe9d44ff-9445-441f-86a5-dd949ef9e27e)
 
 
 # Routing role services
+![Screenshot (145)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/c92efadc-5bf7-4711-9a9b-b502605c8dc0)
+
 
 # Set up DHCP on the DOMAIN CONTROLLER.
+![Screenshot (146)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/528ded28-5745-4266-8cf9-67ff157ed5b3)
+
 
 
 
