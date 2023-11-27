@@ -48,9 +48,11 @@ Configure the virtual machine by giving it two network adapters: one for connect
 ![Screenshot (142)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/795153a4-4655-40b8-b8b5-aef021fdb0ce)
 
 
+
 Configure routing so that clients on the private network can access the internet through the domain controller.
 
 # Remote Access
+![Screenshot (143)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/a79af54e-8ea4-46c4-b65e-322b350ca529)
 
 
 # Routing role services
