@@ -3,8 +3,6 @@
 This repository contains steps on how i set up a basic home lab running Active Directory by Kevin Jackson
 
 # Diagram
-![Diagram](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/c639437b-12f1-427d-8573-21183e75209a)
-
 
 ![Diagram](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/c87a2ac0-2ca4-40fe-9ad8-a344cf7fb2a4)
 
