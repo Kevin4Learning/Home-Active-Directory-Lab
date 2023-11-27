@@ -48,7 +48,7 @@ Configure the virtual machine by giving it two network adapters: one for connect
 
 Configure routing so that clients on the private network can access the internet through the domain controller.
 
-# New password promt/ Log Hours/Exp-Date
+# New password prompt/ Log Hours/Exp-Date
 ![Screenshot (143)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/a79af54e-8ea4-46c4-b65e-322b350ca529)
 
 # Remote Access
