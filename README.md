@@ -45,6 +45,8 @@ Configure the virtual machine by giving it two network adapters: one for connect
 
 
 # Name the Server and Install Active Directory to create the domain.
+![Screenshot (142)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/795153a4-4655-40b8-b8b5-aef021fdb0ce)
+
 
 Configure routing so that clients on the private network can access the internet through the domain controller.
 
