@@ -73,8 +73,8 @@ Configure routing so that clients on the private network can access the internet
 
 # Run the Power Shell script to create 360 users in Active Directory.
 
-Note:Windows Powers ISE (Admin)
-CMD: Set_ExecutionPolicy Unrestricted
+Note:Power Shell ISE (Admin)
+/////////CMD: Set_ExecutionPolicy Unrestricted
 ![Screenshot (148)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/817933fc-b288-4f69-bd66-8ac6247b0c03)
 
 
