@@ -22,9 +22,6 @@ This repository contains steps on how i set up a basic home lab running Active D
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 
 
-
-Create a new virtual machine by clicking "New" in Hyper-V, naming it "Domain Controller," and selecting the "Windows Server" ISO file as the boot media.
-
 # Create Virtual Hard Disk
 ![Screenshot (137)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/7de63b63-90a2-4303-bda7-52a04f19476c)
 
