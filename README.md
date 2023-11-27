@@ -1,5 +1,6 @@
 <h1>Home-Active Directory-Lab</h1>
 < img src= "https://github.com/Kevin4Learning/Home-Active-Directory-Lab/blob/main/attachments/Screenshot%20(135).png"
+![Diagram](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/c87a2ac0-2ca4-40fe-9ad8-a344cf7fb2a4)
 
 
 
