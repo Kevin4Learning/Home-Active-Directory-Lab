@@ -1,12 +1,11 @@
-<h1>Home-Active Directory-Lab</h1>
+# Basic Home Lab Active Directory
+
+This repository contains steps on how i set up a basic home lab running Active Directory by Kevin Jackson
+
+# Diagram
 
 ![Diagram](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/c87a2ac0-2ca4-40fe-9ad8-a344cf7fb2a4)
 
-
-
-This repository contains steps on how i set up a basic home lab running Active Directory.
-
-# Diagram
 
  Install windows 11 Home
 
