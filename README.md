@@ -1,5 +1,5 @@
 <h1 Home-Active Directory-Lab h1>
-< img src= "Screenshot(135).png"
+< img src= "Screenshot(135).PNG"
 
 
 This repository contains steps on how i set up a basic home lab running Active Directory.
