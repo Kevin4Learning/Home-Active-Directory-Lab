@@ -56,11 +56,48 @@ Configure routing so that clients on the private network can access the internet
 
 
 # Routing role services
-![Screenshot (145)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/c92efadc-5bf7-4711-9a9b-b502605c8dc0)
+![Screenshot (174)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/eb641f13-e2cc-430c-bb7b-6c4def10eef0)
 
 
 # Set up DHCP on the DOMAIN CONTROLLER.
-![Screenshot (146)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/528ded28-5745-4266-8cf9-67ff157ed5b3)
+![Screenshot (175)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/47c8fa61-32ac-4174-9f81-67b704ddd329)
+
+
+# IPv4 Address assignment://Wizard View//
+![Screenshot (172)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/3631d69f-afc3-4c8d-bc45-009859af8d6e)
+
+
+# IPv4 Address assignment://Local Properties View
+![Screenshot (173)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/eccac88e-1e8b-47b4-8bb9-884aeee6bf2e)
+
+
+# Run the Power Shell script to create 360 users in Active Directory.
+# Power Shell script for creating users
+Note:Windows Powers ISE (Admin)
+CMD: Set_ExecutionPolicy Unrestricted
+
+
+# Power Shell script for creating users
+![Screenshot (148)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/817933fc-b288-4f69-bd66-8ac6247b0c03)
+
+
+# Create a new virtual machine name "Client-1" and install windows 11 on it.
+![Screenshot (149)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/4a5d1943-d049-45fe-bb76-fae572792372)
+
+
+# Connect the client machine to the private network and join it on the domain.
+![Screenshot (150)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/f8ef1cad-13c4-4342-b978-5236a63bd602)
+
+
+# Joining to Domain
+![Screenshot (151)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/c69f17b7-2578-46cb-ae35-de2b6ed15bca)
+
+
+# Log into the client machine with a domain account.
+![Screenshot (152)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/1398423b-a31d-41cf-a9a2-37e436f9303a)
+
+
+
 
 
 
