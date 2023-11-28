@@ -1,6 +1,5 @@
 # Basic Home Lab Active Directory
-
-This repository contains steps on how i set up a basic home lab running Active Directory by Kevin Jackson
+This repository provides instructions for setting up a basic home lab with Active Directory. The guide will walk you through the steps using Hyper-V, ensuring active participation to enhance understanding of Active Directory and Windows networking intricacies.
 
 # Diagram
 ![Screenshot (135)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/3e776ac6-b03e-4d3f-a92a-ed16512f0336)
