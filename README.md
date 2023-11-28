@@ -5,8 +5,7 @@ This repository provides instructions for setting up a basic home lab with Activ
 ![Screenshot (135)](https://github.com/Kevin4Learning/Home-Active-Directory-Lab/assets/150920288/3e776ac6-b03e-4d3f-a92a-ed16512f0336)
 
 
-# Install Windows 11 Home(https://www.microsoft.com/en-us/d/windows-11-home/dg7gmgf0krt0)
- https://www.microsoft.com/en-us/d/windows-11-home/dg7gmgf0krt0
+# Install Windows 11 Home 
 
 
 # Check-And-Enable Virtualization in Windows 11
@@ -16,7 +15,6 @@ This repository provides instructions for setting up a basic home lab with Activ
 
 
 # Download Windows Server 2019 ISO
-https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 
 
 # Create Virtual Hard Disk
